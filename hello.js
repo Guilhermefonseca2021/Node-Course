@@ -11,7 +11,7 @@ if (mission === "learn") {
 } else {
   console.log(`Is ${mission} really more fun?`);
 }
-
+p
 
 // we have 'node hello.js'
 // 'process' (is like our window in the browser)
